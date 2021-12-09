@@ -1711,7 +1711,7 @@ footer .container .links a:not(:last-child) {
     }
 }
 footer .container .links a::before {
-    font-family: "Font Awesome 5 Free";
+    font-family: "Font Awesome 6 Free";
     content: "\F101";
     font-weight: 900;
     margin-right: 10px;
